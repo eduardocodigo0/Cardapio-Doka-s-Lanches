@@ -2,5 +2,5 @@
 Cardapio da lanchonete Doka's Lanches
 
 #### [VER PDF](https://docdro.id/4ypFOpQ)
-<img src="https://imgur.com/oPSShWr"
+<img src="https://i.imgur.com/oPSShWr.png"
      alt="Cardapio QR code" />
